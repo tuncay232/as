@@ -27,3 +27,8 @@ cd /path/to/script/ass-hack
 python3 main.py
 ```
 Run it before you receive self-destruct photo/video, and script will post it to your private channel automatically. But if you run it after receiving self-desctruct media, just send message `!ass-hack` to any chat
+
+
+
+### 🚀 Heroku'ya dağıtın
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hesenovhuseyn/LuciTaggerBot)
