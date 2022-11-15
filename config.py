@@ -1,6 +1,6 @@
-session_name = "example"
-api_id = 1234567
-api_hash = "123abcd123abcd123abcd"
-channel_id = -1001234567890
+session_name = "1AZWarzwBuw7ViOaWC3oqwlM1u5MIbEnAVzZIQyq4-MiWrEEmEb0b13ze3RZb_E_lnaMUiX7-gIg7nEqiFgosxNQe4j1Ea7g8upsTF5Jj3BsY2hUDSiNwT3IzrgLS9lmM-pPQMM9xb2ejYWiEn9_tCrs0GeSb0DTzRgoWbdsVTgoAm5TWJ4ZQ8HR-EhVjxOXdKQKDf2b-jYztqdMWfisd4eZoCXj_ecWH1T0kv-oSeEklodCUdSv-Y7b6CVnqZRsP8WSshHjvT3prZ9CXLzlKgsskR0_PpYya0lM8M4geN2XI_-6W5ErjrnYoO42FfogzdriRi21Iw7_eiQmlpXqTaHmohPFlvCs="
+api_id = 17584886
+api_hash = "bd41dd5d62d57c367fef5a58da9d671d"
+channel_id = -1891688771
 
 last_messages_amount = 50
