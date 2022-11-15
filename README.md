@@ -31,4 +31,4 @@ Run it before you receive self-destruct photo/video, and script will post it to 
 
 
 ### 🚀 Heroku'ya dağıtın
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hesenovhuseyn/LuciTaggerBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://www.herokucdn.com/deploy/button.svg)
